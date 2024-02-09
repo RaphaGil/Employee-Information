@@ -72,6 +72,6 @@ If you're also on the journey of learning web development and wish to contribute
 ## License
 This project is licensed under the MIT License. The MIT License is an open-source license widely used for software projects. It is known for its permissive nature, allowing users to freely use, modify, distribute, and sublicense the software without significant legal restrictions.
 
-[Raphaela - Emplyees Information Dashboard](https://raphagil.github.io/Employee-s-Info/) - Raphaela Gil 
+[Raphaela - Emplyees Information Dashboard]( https://raphagil.github.io/Employee-Information/) - Raphaela Gil 
 ## Contact Information
 If you're interested in sharing ideas, experiences, or collaborating on projects, please feel free to get in touch via email at raphaela.gil@yahoo.com or [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/raphaela-do-amaral-gil-0a9bb945/ ). You can also check my github profile at [![RaphaGil](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/RaphaGil).
