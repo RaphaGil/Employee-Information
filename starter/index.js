@@ -6,7 +6,7 @@ const inquirer = require("inquirer");
 const path = require("path");
 const fs = require("fs");
 
-const OUTPUT_DIR = path.resolve(__dirname, "../output");
+const OUTPUT_DIR = path.resolve(__dirname, "../../Employee-Information");
 const outputPath = path.join(OUTPUT_DIR, "index.html");
 
 const render = require("./src/page-template.js");
