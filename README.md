@@ -2,7 +2,7 @@
 
 ## Overview
 
-I'm currently undertaking the 9th challenge in my Front-End Developer bootcamp. The task involves transforming given starter code into a functional Node.js command-line application. This application will gather information about employees on a software engineering team and generate an HTML webpage displaying summaries for each person. Comprehensive tests have been provided to ensure all aspects of the code pass successfully.
+I'm currently undertaking the 12th challenge in my Front-End Developer bootcamp. The task involves transforming given starter code into a functional Node.js command-line application. This application will gather information about employees on a software engineering team and generate an HTML webpage displaying summaries for each person. Comprehensive tests have been provided to ensure all aspects of the code pass successfully.
 
 ## Description
 
