@@ -29,7 +29,7 @@ To set up and view this project locally, follow these simple steps:
 
 ## Screenshots
 ### Dashboard Overview
-![Raphaela - Employees Information Webpage]()
+![Raphaela - Employees Information Webpage](https://github.com/RaphaGil/Employee-Information/assets/128820385/e713448f-8cee-4f72-895d-f5e2dd48fa7e)
 *Caption: Overview of the project's main webpage.*
 
 ## Usage

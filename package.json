@@ -1,17 +1,19 @@
 {
-  "name": "npm-init-example",
+  "name": "unsolved",
   "version": "1.0.0",
-  "description": "Example package.json",
+  "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "directories": {
+    "test": "test"
   },
-  "keywords": [
-    "example",
-    "package.json",
-    "npm",
-    "init"
-  ],
-  "author": "Raphaela.gil@yahoo.com",
-  "license": "ISC"
+  "scripts": {
+    "test": "jest",
+    "predeploy": "yarn build",  
+    "deploy": "gh-pages -d build" 
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
 }
