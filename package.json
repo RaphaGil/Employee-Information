@@ -1,19 +1,20 @@
 {
-  "name": "unsolved",
+  "name": "employee-profile-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "A information about employees on a software engineering team, then generates",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
+    "start":"node index.js",
     "test": "jest",
-    "predeploy": "yarn build",   
-    "deploy": "gh-pages -d build" 
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^24.8.0"
+    "jest": "^24.9.0"
   }
 }
